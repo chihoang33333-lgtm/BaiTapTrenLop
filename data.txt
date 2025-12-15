@@ -1,0 +1,2 @@
+Dòng 1: Xin chào PHP
+Dòng 2: Đây là bài tập đọc file
